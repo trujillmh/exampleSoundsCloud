@@ -12,7 +12,7 @@ public class ProfilePage {
     private By textAddCard=By.xpath("//*[contains(text(),'Product successfully added to your shopping cart')]");
 
 
-
+//holi
 
 
     public ProfilePage(WebDriver webDriver) {
